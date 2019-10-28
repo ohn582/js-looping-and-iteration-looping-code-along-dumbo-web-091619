@@ -13,5 +13,5 @@ function countDown(num) {
     console.log(i);
     i -= 1
   }
-  countDown(10);
 }
+countDown(10);
